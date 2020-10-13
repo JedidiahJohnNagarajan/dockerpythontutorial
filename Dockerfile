@@ -4,4 +4,4 @@ ADD src /src
 
 RUN pip install pystrich
 
-CMD [ "python", "./src/main.py" ]
+CMD [ "python", "./src/matrix.py" ]
